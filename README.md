@@ -36,7 +36,7 @@ Como Usar
 
 Clone este repositório:
 
-git clone https://github.com/seuusuario/pokemon-card-db.git
+git clone https://github.com/awaldige/pokemon-card-db.git
 
 Acesse o diretório do projeto:
 
